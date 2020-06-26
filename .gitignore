@@ -1,0 +1,5 @@
+./ffmpeg_g
+./tests/ref/fate/h264-conformance-canl1_toshiba_g
+./tests/ref/fate/h264-conformance-cvmaqp2_sony_g
+./ffprobe_g
+./ffserver_g
